@@ -1,1 +1,1 @@
-# Mvc-ile-3-Panelli-K-t-phane-Y-netim-Sistemi
+# Mvc-ile-3-Panelli-Kutuphane-Yonetim-Sistemi
